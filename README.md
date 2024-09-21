@@ -1,5 +1,5 @@
 ## Hi there is ArrowSaul👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrowSaul)](https://github.com/ArrowSaul/github-readme-stats)
+[![ArrowSaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrowSaul)](https://github.com/ArrowSaul/github-readme-stats)
 <!--
 **ArrowSaul/ArrowSaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
