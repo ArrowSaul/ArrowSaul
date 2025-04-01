@@ -30,6 +30,7 @@ Yesterday is history, tomorrow is yet to be written.
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
     </a>
+    <br>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
     </a>
