@@ -47,7 +47,7 @@ Yesterday is history, tomorrow is yet to be written.
     </a>
 </div>
 
-### ✨今年汇总
+### ✨ Github Statistics
 
 <div>
 
