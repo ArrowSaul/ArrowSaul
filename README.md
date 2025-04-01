@@ -15,7 +15,6 @@ Yesterday is history, tomorrow is yet to be written.
 ### 🔨 Skills and Tools
 
 <div align="center">
-    <!-- Java 技术栈 -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
@@ -37,8 +36,6 @@ Yesterday is history, tomorrow is yet to be written.
     <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Cloud" width="40" height="40"/>
     </a>
-    
-    <!-- 基础设施 -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     </a>
