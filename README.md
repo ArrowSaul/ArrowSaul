@@ -1,11 +1,5 @@
 <h3 align="center">Hi 👋, I'm ArrowSaul 🚀</h3>
 
-<h4 align="center">
-昨天已成历史，明天皆是未知。
-<br><br>
-Yesterday is history, tomorrow is yet to be written.
-</h4>
-
 ### 🏆 Profile Trophy
 
 <p align="center">
