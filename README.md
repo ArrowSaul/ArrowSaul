@@ -43,8 +43,8 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
 </a>
-<a href="https://kafka.apache.org/ " target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg " alt="Kafka" width="40" height="40"/>
+<a href="https://www.jenkins.io " target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg " alt="Jenkins" width="40" height="40"/>
 </a>
 </div>
 
