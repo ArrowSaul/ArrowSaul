@@ -1,11 +1,5 @@
 <h3 align="center">Hi 👋, I'm ArrowSaul 🚀</h3>
 
-## 🏆 Profile Trophy
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArrowSaul&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="ArrowSaul" />
-</p>
-
 ### 🔨 Skills and Tools
 
 <div align="center">
@@ -43,15 +37,13 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
 </a>
-<a href="https://kafka.apache.org/ " target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg " alt="Kafka" width="40" height="40"/>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
 </div>
 
 ### ✨ Github Statistics
 
 <div>
-
- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArrowSaul&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrowSaul&hide=javascript&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrowSaul&hide=javascript&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
