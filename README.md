@@ -15,8 +15,8 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
 </a>
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
